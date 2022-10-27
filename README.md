@@ -8,7 +8,7 @@ I have been working in system and reliability engineering space for 11+ years le
 
 *   🌍  I'm based in Bangalore, India
 *   ✉️  You can contact me at [sanjaykthkr7@gmail.com](mailto:sanjaykthkr7@gmail.com)
-*   🧠  I'm learning Golang
+*   🧠  I'm currently learning [Golang](https://go.dev/learn)
 *   🤝  I'm open to collaborating on open source projects
 
 ### Skills 
