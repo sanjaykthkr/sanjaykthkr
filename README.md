@@ -21,6 +21,7 @@ I have been working in system and reliability engineering space for 11+ years le
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/skills/docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/skills/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/skills/linux.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 ### Socials
