@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjaykthkr7
-- 👀 I’m interested in SRE/DevOps Best practices, tool and technologies, Automation, and Big Data
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in SRE/DevOps, Big Data, Analytics, Tool, Technologies and Automations
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Python, Golang
 - 📫 Reach me on Twitter @sanjaykthkr7
 
