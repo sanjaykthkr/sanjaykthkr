@@ -21,4 +21,6 @@ I have been working in system and reliability engineering space for 11+ years le
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-# Socials
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sanjaykthkr7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanjaykthkr7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sanjaykthkr7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sanjaykthkr7/sanjaykthkr7/main/readme-logos/socials/twitter.svg" width="32" height="32" /></a></p>
