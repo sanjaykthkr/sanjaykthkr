@@ -7,7 +7,7 @@ Staff Engineer (DevOps/SRE)
 I have been working in system and reliability engineering space for 11+ years learning, exploring and implementing DevOps/SRE process and best practices to run large scale distributed systems at major tech.
 
 *   🌍  I'm based in Bangalore, India
-*   ✉️   You can DM me at [Twitter](https://twitter.com/sanjaykthkr) or [Linkedin](https://linkedin.com/in/sanjaykthkr)
+*   ✉️  You can DM me at [Twitter](https://twitter.com/sanjaykthkr) or [Linkedin](https://linkedin.com/in/sanjaykthkr)
 *   🧠  I'm currently learning [Golang](https://go.dev/learn)
 *   🤝  I'm open to collaborating on open source projects
 
