@@ -1,7 +1,7 @@
 Hi 👋 My name is Sanjay Thakur
 ==============================
 
-Staff Engineer (DevOps/SRE)
+Principal Engineer - SRE
 ---------------------------
 
 I have been working in system and reliability engineering space for 11+ years learning, exploring and implementing DevOps/SRE process and best practices to run large scale distributed systems at major tech.
