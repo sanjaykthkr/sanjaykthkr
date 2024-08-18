@@ -8,7 +8,7 @@ I have been working in system and reliability engineering space for 11+ years le
 
 *   🌍  I'm based in Bangalore, India
 *   ✉️  You can DM me at [Twitter](https://twitter.com/sanjayk9r) or [Linkedin](https://linkedin.com/in/sanjayk9r)
-*   🧠  I'm currently learning [Golang](https://go.dev/learn)
+*   🧠  I'm currently learning [Golang](https://go.dev/learn) & Reading books on Data Engineering.
 *   🤝  I'm open to collaborating on open source projects
 
 ### Skills 
